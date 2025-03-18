@@ -9,31 +9,29 @@ version: 2
 name: Kyungbin Kim
 title: MS Student
 email: binbin10@korea.ac.kr
-website: www.github.com/binbin-1010
+# website: www.github.com/binbin-1010
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+github_username:  binbin-1010
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: binbin_.k
+linkedin_username: kyungbin-kim-35023824a
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  icon: fas fa-university
+  url: comsys-lab.github.io
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,29 +46,42 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Kyungbin(binbin) and I'm a MS student at korea university. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Kyungbin (binbin), and I am a Master's student in Electrical & Electronic Engineering at Korea University.  
+  My research focuses on **next-generation memory systems**, particularly in **Compute Express Link (CXL) and tiered memory management** for AI and high-performance computing (HPC).  
 
-  I am most skilled in: <mark>Memory system</mark> and <mark>OS</mark>
+  I have experience in **low-level system programming**, memory optimization, and performance tuning for large-scale computing environments.  
+  My work involves **analyzing memory access patterns, developing efficient memory management techniques, and optimizing system performance for AI workloads**.  
+
+  I am most skilled in: <mark>Memory Systems</mark>, <mark>Operating Systems</mark>, and <mark>Low-Level System Programming</mark>.
+
 
 content:
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+      - layout: top-middle
+        title: Memory Systems
+        # link: github.com/sproogen
+        # # link_text: Project Website
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Researching next-generation memory systems to enhance performance and scalability in AI and high-performance computing.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          My research focuses on **innovative memory architectures** to support the increasing demands of modern computing.  
+          I explore **Compute Express Link (CXL) and tiered memory systems** to optimize memory efficiency, reduce latency, and improve scalability.
+
+          - Investigating **CXL-based memory disaggregation** to enhance resource utilization in datacenters.  
+          - Optimizing **tiered memory management** for AI workloads and high-performance computing (HPC).  
+          - Exploring **hotness-aware memory techniques** to improve data locality and reduce access overhead.  
+          - Developing advanced memory architectures to support the growing complexity of computing infrastructure.
+
+          This research aims to push the boundaries of **next-generation memory systems**, ensuring efficient and scalable memory solutions for AI, cloud computing, and HPC.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -82,9 +93,16 @@ content:
         sub_title: Process Development Engineer
         caption: January 2022 - March 2025
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Optimized microLED transfer processes through data-driven analysis and defect reduction strategies.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          Led the development and optimization of microLED transfer processes in collaboration with Apple, ensuring high-yield and scalable manufacturing. 
+
+          - **Collaborated with Apple** to refine MTT (MicroLED Transfer Technology) specifications and improve AOI accuracy.
+          - **Automated wafer defect analysis** using macros & VBA, enhancing defect detection efficiency.
+          - **Developed XML conversion tools** for defect data processing, streamlining quality control workflows.
+          - **Analyzed OEE (Overall Equipment Effectiveness)** to optimize production capacity and required equipment.
+          - **Designed and conducted reliability tests**, including **Fiducial Quality verification, Nano Bump analysis, and Clamp Time Sweep**.
+          - **Implemented Adaptive Maintenance** strategies to enhance production stability.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -94,17 +112,21 @@ content:
         caption: Setpember 2024 - Present 
         sub_title: MS in Electric & Electronic Engineering
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        description: | # this will include new lines to allow paragraphs
+          Currently advancing my knowledge in **system software and high-performance computing**,  
+          focusing on **machine learning performance optimization and memory management**.  
+          Exploring **low-level system programming and hardware acceleration**, utilizing **C, C++, and Python**.  
+          Gaining experience in **Compute Express Link (CXL) technology** and **server-side ML deployment**.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
       - layout: left
         title: Dongguk University
         caption: 2016 - 2022
         sub_title: BS in Electronic & Electrical Engineering
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Studied **object-oriented programming (C++)** and **computer algorithms**, developing strong analytical and problem-solving skills.  
+          Completed **external training in digital system design**, gaining experience with **hardware description languages (HDL) and FPGA programming**.  
+          Led a **senior capstone project**, designing a **smart advertisement cart** using **E-paper, ESP32, and Bluetooth communication** for real-time ad updates.  
+          Designed and prototyped **custom PCB circuits**, optimizing **power management** and **signal integrity** in embedded systems.
 
   # - title: A Little More About Me
   #   layout: text
