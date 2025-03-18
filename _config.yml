@@ -47,13 +47,13 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Kyungbin (binbin), and I am a Master's student in Electrical & Electronic Engineering at Korea University, advised by **Prof. Yunho Oh**.  
-  My research focuses on **next-generation memory systems**, particularly in **Compute Express Link (CXL) and tiered memory management** for AI and high-performance computing (HPC).  
+  My research focuses on **next-generation memory systems**, specifically **Compute Express Link (CXL) and tiered memory management** for AI and high-performance computing (HPC).  
 
   I have experience in **low-level system programming**, memory optimization, and performance tuning for large-scale computing environments.  
-  Previously, I conducted **performance analysis of LLM inference on tiered memory systems**, evaluating memory access patterns and optimizing system efficiency.  
-  My work involves **analyzing memory access behaviors, developing efficient memory management techniques, and optimizing system performance for AI workloads**.  
+  Previously, I analyzed **LLM inference performance on tiered memory systems**, evaluating memory access patterns and system efficiency.  
+  My work involves **developing advanced memory management techniques, optimizing data locality, and reducing access overhead in AI workloads**.  
 
-  I am most skilled in: <mark>Memory Systems</mark>, <mark>Operating Systems</mark>, and <mark>Low-Level System Programming</mark>.
+  I specialize in: <mark>Memory Systems</mark>, <mark>Operating Systems</mark>, and <mark>Low-Level System Programming</mark>.
 
 content:
   - title: Research # Title for the section
@@ -71,17 +71,17 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Researching next-generation memory systems to enhance performance and scalability in AI and high-performance computing.
+          Exploring next-generation memory architectures to enhance performance and scalability in AI and high-performance computing.
         description: | # this will include new lines to allow paragraphs
-          My research focuses on **innovative memory architectures** to support the increasing demands of modern computing.  
-          I explore **Compute Express Link (CXL) and tiered memory systems** to optimize memory efficiency, reduce latency, and improve scalability.
+          My research focuses on **advanced memory architectures** to support the evolving demands of modern computing.  
+          I explore **CXL-based memory disaggregation and tiered memory systems** to improve resource utilization and system performance.
 
-          - Investigating **CXL-based memory disaggregation** to enhance resource utilization in datacenters.  
-          - Optimizing **tiered memory management** for AI workloads and high-performance computing (HPC).  
-          - Exploring **hotness-aware memory techniques** to improve data locality and reduce access overhead.  
-          - Developing advanced memory architectures to support the growing complexity of computing infrastructure.
+          - Investigating **CXL-enabled memory pooling** to enhance datacenter scalability.  
+          - Optimizing **tiered memory management** for AI and high-performance computing (HPC).  
+          - Implementing **hotness-aware memory techniques** to improve data locality and reduce access latency.  
+          - Developing memory optimization strategies to enhance efficiency in large-scale computing environments.
 
-          This research aims to push the boundaries of **next-generation memory systems**, ensuring efficient and scalable memory solutions for AI, cloud computing, and HPC.
+          This research aims to advance **memory-centric computing**, ensuring efficient and scalable memory solutions for AI, cloud computing, and HPC.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -95,13 +95,13 @@ content:
         quote: >
           Optimized microLED transfer processes through data-driven analysis and defect reduction strategies.
         description: | # this will include new lines to allow paragraphs
-          Led the development and optimization of microLED transfer processes in collaboration with Apple, ensuring high-yield and scalable manufacturing. 
+          Led the development and optimization of **microLED transfer processes** in collaboration with Apple, ensuring high yield and scalability.  
 
-          - **Collaborated with Apple** to refine MTT (MicroLED Transfer Technology) specifications and improve AOI accuracy.
-          - **Automated wafer defect analysis** using macros & VBA, enhancing defect detection efficiency.
-          - **Developed XML conversion tools** for defect data processing, streamlining quality control workflows.
-          - **Analyzed OEE (Overall Equipment Effectiveness)** to optimize production capacity and required equipment.
-          - **Designed and conducted reliability tests**, including **Fiducial Quality verification, Nano Bump analysis, and Clamp Time Sweep**.
+          - **Collaborated with Apple** to refine MTT (MicroLED Transfer Technology) specifications and improve AOI accuracy.  
+          - **Automated wafer defect analysis** using macros & VBA, improving defect detection efficiency.  
+          - **Developed XML conversion tools** to streamline defect data processing.  
+          - **Analyzed OEE (Overall Equipment Effectiveness)** to optimize production capacity and equipment requirements.  
+          - **Designed and conducted reliability tests**, including **Fiducial Quality verification, Nano Bump analysis, and Clamp Time Sweep**.  
           - **Implemented Adaptive Maintenance** strategies to enhance production stability.
 
   - title: Education # Title for the section
@@ -113,21 +113,20 @@ content:
         sub_title: MS in Electric & Electronic Engineering
         description: | # this will include new lines to allow paragraphs
         description: | # this will include new lines to allow paragraphs
-          Currently advancing my knowledge in **system software and high-performance computing**,  
+          Advancing expertise in **system software and high-performance computing**,  
           focusing on **machine learning performance optimization and memory management**.  
-          Exploring **low-level system programming and hardware acceleration**, utilizing **C, C++, and Python**.  
-          Gaining experience in **Compute Express Link (CXL) technology** and **server-side ML deployment**.
+          Researching **CXL technology and low-level system programming**, leveraging **C, C++, and Python**.
 
       - layout: left
         title: Dongguk University
         caption: 2016 - 2022
         sub_title: BS in Electronic & Electrical Engineering
         description: | # this will include new lines to allow paragraphs
-          Studied **object-oriented programming (C++)** and **computer algorithms**, developing strong analytical and problem-solving skills.  
-          Completed **external training in digital system design**, gaining experience with **hardware description languages (HDL) and FPGA programming**.  
-          Led a **senior capstone project**, designing a **smart advertisement cart** using **E-paper, ESP32, and Bluetooth communication** for real-time ad updates.  
-          Designed and prototyped **custom PCB circuits**, optimizing **power management** and **signal integrity** in embedded systems.
-
+          Studied **object-oriented programming (C++)** and **computer algorithms**, developing strong analytical skills.  
+          Completed **external training in digital system design**, gaining experience with **HDL and FPGA programming**.  
+          Led a **senior capstone project**, designing a **smart advertisement cart** using **E-paper, ESP32, and Bluetooth** for real-time ad updates.  
+          Designed and prototyped **custom PCB circuits**, optimizing **power management** and **signal integrity**.
+          
   # - title: A Little More About Me
   #   layout: text
   #   content: | # this will include new lines to allow paragraphs
