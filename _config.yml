@@ -46,14 +46,14 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Kyungbin (binbin), and I am a Master's student in Electrical & Electronic Engineering at Korea University.  
+  Hi, my name is Kyungbin (binbin), and I am a Master's student in Electrical & Electronic Engineering at Korea University, advised by **Prof. Yunho Oh**.  
   My research focuses on **next-generation memory systems**, particularly in **Compute Express Link (CXL) and tiered memory management** for AI and high-performance computing (HPC).  
 
   I have experience in **low-level system programming**, memory optimization, and performance tuning for large-scale computing environments.  
-  My work involves **analyzing memory access patterns, developing efficient memory management techniques, and optimizing system performance for AI workloads**.  
+  Previously, I conducted **performance analysis of LLM inference on tiered memory systems**, evaluating memory access patterns and optimizing system efficiency.  
+  My work involves **analyzing memory access behaviors, developing efficient memory management techniques, and optimizing system performance for AI workloads**.  
 
   I am most skilled in: <mark>Memory Systems</mark>, <mark>Operating Systems</mark>, and <mark>Low-Level System Programming</mark>.
-
 
 content:
   - title: Research # Title for the section
