@@ -127,6 +127,21 @@ content:
           Led a **senior capstone project**, designing a **smart advertisement cart** using **E-paper, ESP32, and Bluetooth** for real-time ad updates.  
           Designed and prototyped **custom PCB circuits**, optimizing **power management** and **signal integrity**.
 
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Language
+        description: | # this will include new lines to allow paragraphs
+          - **Korean**: Native  
+          - **English**: Professional  
+
+      - layout: left
+        title: Programming Languages
+        description: | # this will include new lines to allow paragraphs
+          - **C, C++**  
+          - **Python**  
+          - **Shell Script**  
   # - title: A Little More About Me
   #   layout: text
   #   content: | # this will include new lines to allow paragraphs
@@ -140,7 +155,7 @@ content:
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+# footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
