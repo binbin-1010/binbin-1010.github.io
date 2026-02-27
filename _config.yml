@@ -93,6 +93,7 @@ content:
         caption: 2026
         description: | # this will include new lines to allow paragraphs
           **Bauhaus: Restructuring Vector Database for LLM Retrieval on CXL-Based Tiered Memory**
+          
           **Kyungbin Kim**, Sungsu Ahn, Wonjung Jeong, Jongmin Kim, Sangun Choi, Minseong Gil, Minseong Kim, Dongha Jeong, Yunjay Hong, Haekang Jung, and Yunho Oh
 
   - title: Experience # Title for the section
